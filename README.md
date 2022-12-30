@@ -3,6 +3,7 @@
 - 👀 I'm interested in developing my programming skills, I'm looking to introduce myself in the area of UI and UX designer
 - 🌱 I'm currently studying a Bachelor's Degree in Information Systems and at the same time I'm doing a technologist in Information Technology Management
 - 💞️ I looking to collaborate on projects Front-End ;
+-  O ontem é história, o amanhã é um mistério, mas hoje é uma dádiva, por isso chama-se presente.Mestre Oogway
 
 <div align="center">
   <a href="https://github.com/Azogh">
