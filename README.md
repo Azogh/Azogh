@@ -3,7 +3,9 @@
 ##
 <div class="apresentation" text=align="jusrtfy">
  Since I was little I was passionate about Technology, music and games, have always been interested in designer, I started little time in the middle of programming, I am in search of my first job in the area. 
-  
+<br/>
+ <br/>
+ 
 - 👀 I'm interested in developing my programming skills, I'm looking to introduce myself in the area of UI and UX designer
 - 🌱 I'm currently studying a Bachelor's Degree in Information Systems and at the same time I'm doing a technologist in Information Technology Management
 - 💞️ I looking to collaborate on projects Front-End ;
