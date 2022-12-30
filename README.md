@@ -33,29 +33,19 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white  " target="_blank"></a>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" target="_blank"></a>
+ 
  
 </div>
 
 <br/>
  
-<div/>
  
 ##
   
-<div class="DevOps" >
- 
- <br/>
-ide´s and programs i use:<br/>
-<br/>
-<a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"</a>
-<a target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank"></a>
- 
-</div>
-  
-##
 <div class="Workspace" style="inline_block" align="center"> 
   My workspace specs:<br/>
  <br/>
@@ -69,12 +59,6 @@ ide´s and programs i use:<br/>
   <img src="https://img.shields.io/badge/Redragon-k617_Fizz-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Redragon-m607_Griffin-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
 
 ##
 
