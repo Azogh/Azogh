@@ -7,7 +7,7 @@
 - 👀 I'm interested in developing my programming skills, I'm looking to introduce myself in the area of UI and UX designer
 - 🌱 I'm currently studying a Bachelor's Degree in Information Systems and at the same time I'm doing a technologist in Information Technology Management
 - 💞️ I looking to collaborate on projects Front-End ;
-- (m) below are my social networks, you get in touch through them:
+- 📱 below are my social networks, you get in touch through them:
 <div/>
  
 ##
@@ -26,10 +26,21 @@
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azogh&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-<div class="Skills">
+<div class="Skills" style="display: inline_block">
  <br/>
  My skills in development:<br/>
+ <br/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white  " target="_blank"></a>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" target="_blank"></a>
+ 
+</div>
+
 <br/>
+ 
 <div/>
  
 ##
@@ -39,7 +50,9 @@
  <br/>
 ide´s and programs i use:<br/>
 <br/>
-<a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"</a>
+<a target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank"></a>
+ 
 </div>
   
 ##
@@ -57,7 +70,22 @@ ide´s and programs i use:<br/>
   <img src="https://img.shields.io/badge/Redragon-m607_Griffin-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
 </div>
 
+##
 
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
+
+##
+
+<div style="display: inline_block" class = "social" align="center">
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>
+ <a href =""><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+ <a href =""><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ <a href =""><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
+ <a href =""><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" target="_blank"></a>
+ <a href =""><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" target="_blank"></a>
+<div/>
 
 
 <!---
