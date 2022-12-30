@@ -17,10 +17,10 @@
  <a href="https://www.instagram.com/oozga_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andre.2019021054@aluno.iffar.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-gustavo-silva-ozga-48ab52194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <div/>
+ <div/>
   
 #
-<div class = "statics">
+<div class = "statics" style="display: inline_block">
   <a href="https://github.com/Azogh">
   <img height="auto" src="https://github-readme-stats.vercel.app/api?username=azogh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azogh&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,9 +28,19 @@
  
 <div class="Skills">
  <br/>
- My skills in development:
- <br/>
+ My skills in development:<br/>
+<br/>
+<div/>
+ 
+##
   
+<div class="DevOps" >
+ 
+ <br/>
+ide´s and programs i use:<br/>
+<br/>
+<a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+</div>
   
 ##
 <div class="Workspace" style="inline_block" align="center"> 
@@ -47,14 +57,7 @@
   <img src="https://img.shields.io/badge/Redragon-m607_Griffin-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
 </div>
 
-<br/>
-ide´s and programs i use:
-<br/>
-  
-<div class="DevOps" > 
-  <a target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
- 
-</div>
+
 
 
 <!---
