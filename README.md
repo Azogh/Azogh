@@ -57,6 +57,8 @@
   <img src="https://img.shields.io/badge/Redragon-400W-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Redragon-Superion-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Redragon-k617_Fizz-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
+ [![Laravel RPA](https://img.shields.io/badge/Laravel-RPA-orange)](https://laravel.com)
+
   <img src="https://img.shields.io/badge/Redragon-m607_Griffin-ED1C24?style=for-the-badge&logo=redragon&logoColor=white" target="_blank"></a>
 </div>
 
