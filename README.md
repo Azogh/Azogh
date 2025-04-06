@@ -1,7 +1,7 @@
 ### 👋 Hey there! I’m André Gustavo Ozga — but you can call me @Azogh
 
 ##
-<div align="justify">
+<div align="">
 
 🎮 Passionate about technology, music, and gaming since childhood, I’ve always had an eye for design and recently started diving into the world of programming. I’m currently looking for my first opportunity in tech.
 
