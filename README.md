@@ -1,16 +1,30 @@
+### 👋 Olá! Eu sou o André Gustavo Ozga — mas pode me chamar de @Azogh
+
 ### 👋 Hey there! I’m André Gustavo Ozga — but you can call me @Azogh
 
 ##
 <div align="justify">
 
-Since I was a kid, I've been passionate about technology, music, and games. I’ve always had an interest in design and recently started diving into the world of programming. I’m currently looking for my first opportunity in the tech industry.
+🎮 Apaixonado por tecnologia, música e jogos desde criança, sempre tive afinidade com design e, recentemente, comecei a me aventurar no mundo da programação. Estou em busca da minha primeira oportunidade na área de tecnologia.
+
+🚀 I'm passionate about tech, music, and games since childhood. I've always had a creative eye for design, and recently I've started diving into the programming world. I'm currently looking for my first opportunity in tech.
 
 <br/><br/>
 
-- 👀 I'm focused on improving my programming skills and exploring the fields of UI/UX Design  
-- 🎓 I’m studying for a Bachelor's Degree in Information Systems and also completing a degree in IT Management  
-- 💻 I’m especially interested in Front-End projects  
-- 📱 You can reach me through the social links below  
+- 💡 Focado em aprimorar minhas habilidades em programação e explorar UI/UX Design  
+- 💡 Focused on improving my coding skills and exploring UI/UX Design  
+- 🎓 Graduando em Bacharelado em Sistemas de Informação  
+- 🎓 Bachelor’s Degree in Information Systems (in progress)  
+- 🎓 Tecnólogo em Gestão da Tecnologia da Informação (UNINTER, 2021)  
+- 🎓 Graduated in IT Management (2021)  
+- 🎓 Pós-graduação em Segurança e Defesa Cibernética  
+- 🎓 Postgraduate in Cybersecurity and Cyber Defense  
+- 🎓 Pós-graduação em Gestão em Inteligência e Segurança Privada  
+- 🎓 Postgraduate in Intelligence Management and Private Security  
+- 💻 Especial interesse por projetos Front-End  
+- 💻 Particularly interested in Front-End development  
+- 📱 Entre em contato pelos links abaixo  
+- 📱 Reach me through the links below  
 
 </div>
 
@@ -37,7 +51,27 @@ Since I was a kid, I've been passionate about technology, music, and games. I’
 
 ##
 
-### 🛠️ My Tech Stack
+### 📚 Formação Acadêmica | Academic Background
+
+<div align="justify">
+
+- 🎓 **Bacharelado em Sistemas de Informação** — IFFar (em andamento)  
+- 🎓 **Bachelor’s in Information Systems** — IFFar (in progress)  
+
+- 🎓 **Tecnólogo em Gestão da Tecnologia da Informação** — UNINTER, 2021  
+- 🎓 **Degree in IT Management** — UNINTER, 2021  
+
+- 🎓 **Pós-graduação em Segurança e Defesa Cibernética**  
+- 🎓 **Postgraduate in Cybersecurity and Cyber Defense**  
+
+- 🎓 **Pós-graduação em Gestão em Inteligência e Segurança Privada**  
+- 🎓 **Postgraduate in Intelligence Management and Private Security**  
+
+</div>
+
+##
+
+### 🛠️ Stack
 
 <div style="display: flex; flex-wrap: wrap" align="center">
 
@@ -53,7 +87,7 @@ Since I was a kid, I've been passionate about technology, music, and games. I’
 
 ##
 
-### 🖥️ My Workspace
+### 💻 Setup
 
 <div align="center">
 
@@ -71,7 +105,7 @@ Since I was a kid, I've been passionate about technology, music, and games. I’
 
 ##
 
-### 🎮 Hobbies & Gaming
+### 🎮 Hobbies
 
 <div align="center">
 
