@@ -97,17 +97,18 @@
 <img src="https://img.shields.io/badge/SSD-Zadak_128GB_M.2-999999?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SSD-Kingston_480GB-999999?style=for-the-badge&logo=kingston&logoColor=white"/>
 <img src="https://img.shields.io/badge/SSD-Kingston_240GB-999999?style=for-the-badge&logo=kingston&logoColor=white"/>
+<img src="https://img.shields.io/badge/HDD-WD_Blue_1TB-0071BB?style=for-the-badge&logo=western-digital&logoColor=white"/>
+<img src="https://img.shields.io/badge/HDD-WD_Blue_1TB-0071BB?style=for-the-badge&logo=western-digital&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Case-Redragon_Superion-ED1C24?style=for-the-badge&logo=redragon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keyboard-Redragon_K617_Fizz-ED1C24?style=for-the-badge&logo=redragon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mouse-Redragon_M607_Griffin-ED1C24?style=for-the-badge&logo=redragon&logoColor=white"/>
 <img src="https://img.shields.io/badge/Soundbar-Redragon_Yorick_GS812-ED1C24?style=for-the-badge&logo=redragon&logoColor=white"/>
-
 <br/>
 
 #### 💻 Mobility - ASUS VivoBook X515DA
 
-<img src="https://img.shields.io/badge/OS-Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-Fedora_Gnome_43-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/CPU-AMD_Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPU-Radeon_Vega_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 <br/>
